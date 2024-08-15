@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
 소문자를 사용해라 (use lower case)
 대시(-)를 사용해라 (use dashes)
 명확하게 작성해라 (be specific)
@@ -74,3 +73,88 @@ util
 ...	그 외 용도를 잘 설명하는 단어
 https://github.com/jinseobhong/gitRepositoryNamingConvention?tab=readme-ov-file
 -->
+
+
+  <p align = center> <img width="150" src="https://user-images.githubusercontent.com/101302590/230821479-ae70b5db-f242-4da1-bda2-84ae606e2e93.gif" /> </p>  
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=skyblue&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+GitHub!" alt="Typing SVG">
+</p>
+
+
+
+<hr>
+
+<div align="center">
+  <h2>📖 Skills in Progress</h2>
+</div>
+
+<p align="center">
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <!-- JPA -->
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="JPA" />
+  <!-- Spring Boot -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<p align="center">
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+</p>
+
+<hr>
+<!-- 
+<div align="center">
+  <h2>💬 SNS & BLOG</h2>
+
+</div>
+
+https://www.notion.so/MEGAZONE-37682061df6d43cbb9421cecf61605d7
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:immoonyejin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <!-- Notion -->
+  <a href="[https://wnsgud0310.tistory.com/](https://www.notion.so/MEGAZONE-37682061df6d43cbb9421cecf61605d7)" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Tistory Blog" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/wnsgud_00" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+ -->
+<hr>
+
+
+<div align="center">
+
+  <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wive10&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=wive10&theme=tokyonight&show_icons=true" width="43.5%" />
+</a>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wive10&theme=tokyonight)
+
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=20203197)](https://solved.ac/profile/****)
+
+  
+
+  
+
+
+
+</div>
