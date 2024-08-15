@@ -113,29 +113,12 @@ https://github.com/jinseobhong/gitRepositoryNamingConvention?tab=readme-ov-file
 </p>
 
 <hr>
-<!-- 
+
 <div align="center">
   <h2>💬 SNS & BLOG</h2>
 
 </div>
 
-https://www.notion.so/MEGAZONE-37682061df6d43cbb9421cecf61605d7
-<p align="center">
-  <!-- Gmail -->
-  <a href="mailto:immoonyejin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <!-- Notion -->
-  <a href="[https://wnsgud0310.tistory.com/](https://www.notion.so/MEGAZONE-37682061df6d43cbb9421cecf61605d7)" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Tistory Blog" />
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/wnsgud_00" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
- -->
-<hr>
 
 
 <div align="center">
